@@ -17,8 +17,9 @@ public class BluRay_CapaDobleTest {
     }
 
     @Test
+    @Test
     public void getCapacidadTest(){
-        assertEquals("4.9GB",bluRay.getCapacidad());
+        assertEquals("4.9GB2",bluRay.getCapacidad());
     }
 
     @Test
