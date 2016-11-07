@@ -103,20 +103,20 @@
       <file leaf-file-name="BluRay_CapaDobleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/products/BluRay_CapaDobleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="291">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#328#329#0" expanded="true" />
                 <element signature="e#374#375#0" expanded="true" />
                 <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#594#595#0" expanded="true" />
-                <element signature="e#638#639#0" expanded="true" />
-                <element signature="e#695#696#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
-                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#816#817#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1049,20 +1049,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/products/BluRay_CapaDobleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="291">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#328#329#0" expanded="true" />
             <element signature="e#374#375#0" expanded="true" />
             <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
           </folding>
         </state>
       </provider>
